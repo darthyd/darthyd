@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @darthyd a.k.a. Lucas José de Oliveira</h1>
 <h3 align="center">A passionate development student from Brazil</h3>
 
-- 🔭 I’m currently working with **javascript and reactJS**
+- 🔭 I’m currently working with **Javascript and ReactJS**
 
-- 🌱 I’m currently learning **typescript, python**
+- 🌱 I’m currently learning **Typescript, Python and Rust**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
