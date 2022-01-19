@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **Javascript and ReactJS**
 
-- 🌱 I’m currently learning **Typescript, Python and Rust**
+- 🌱 I’m currently learning **Typescript and React Native**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
