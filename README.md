@@ -97,11 +97,11 @@
 
 #
 
-[![Darthyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=darthyd&show_icons=true&theme=dracula&locale=en)](https://github.com/darthyd/darthyd)
+[![Darthyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=darthyd&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=dd6387&locale=en)](https://github.com/darthyd/darthyd)
 
-[![Darthyd's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=darthyd&api_domain=wakapi.dev&bg_color=282a36&title_color=dd6387&text_color=ffffff&custom_title=My%20Stats%20this%20Week)](https://github.com/darthyd/darthyd)
+[![Darthyd's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=darthyd&api_domain=wakapi.dev&custom_title=My%20Stats%20this%20Week&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=dd6387&locale=en)](https://github.com/darthyd/darthyd)
 
-[![Darthyd's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=darthyd&show_icons=true&theme=dracula&locale=en&layout=compact)](https://github.com/darthyd/darthyd)
+[![Darthyd's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=darthyd&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=dd6387&locale=en&layout=compact)](https://github.com/darthyd/darthyd)
 
 
 
