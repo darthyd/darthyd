@@ -101,4 +101,6 @@
 
 [![Darthyd's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=darthyd&show_icons=true&theme=dracula&locale=en&layout=compact)](https://github.com/darthyd/darthyd)
 
+[![Darthyd's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=darthyd&api_domain=wakapi.dev&bg_color=282a36&title_color=dd6387&text_color=ffffff&custom_title=My%20Stats%20this%20Week)](https://github.com/darthyd/darthyd)
+
 
