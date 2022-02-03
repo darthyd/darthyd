@@ -47,6 +47,9 @@
     <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&q=react">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     </a>
+    <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&q=react-native">
+        <img src="https://img.shields.io/badge/React%20Native-316192?style=for-the-badge&logo=react&logoColor=white" />
+    </a>
     <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&q=material-ui">
         <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white">
     </a>
