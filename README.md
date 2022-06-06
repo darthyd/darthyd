@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning *GoLang*
 
-- 👯 I’m looking to collaborate on **open source projects**
-
 - 🤝 I’m looking for help with **anything that is possible**
 
 - 👨‍💻 Mostly of my projects are available at [github.com/darthyd](github.com/darthyd)
