@@ -32,9 +32,6 @@
     <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&language=typescript">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     </a>
-    <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&language=go">
-        <img src="https://img.shields.io/badge/Golang-00a7d0?style=for-the-badge&logo=go&logoColor=white">
-    </a>
     <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&language=shell">
         <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">    
     </a>
@@ -45,14 +42,8 @@
     <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&q=react">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     </a>
-    <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&q=react-native">
-        <img src="https://img.shields.io/badge/React%20Native-316192?style=for-the-badge&logo=react&logoColor=white" />
-    </a>
     <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&q=material-ui">
         <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white">
-    </a>
-    <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&q=stitches">
-        <img src="https://img.shields.io/badge/stitches-292149?style=for-the-badge&logo=stitches&logoColor=white">
     </a>
     <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&q=express">
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -67,14 +58,8 @@
     <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&q=postgres">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     </a>
-    <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&q=mysql">
-        <img src="https://img.shields.io/badge/mysql-d76f2a?style=for-the-badge&logo=mysql&logoColor=white">
-    </a>
     <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&q=mongo">
          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    </a>
-    <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&q=firestore">
-         <img src="https://img.shields.io/badge/firestore-f68410?style=for-the-badge&logo=firebase&logoColor=white">
     </a>
 </div>
 
@@ -82,9 +67,6 @@
     <h4>General Systems/Tools:</h4>
     <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&language=node">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    </a>
-    <a style="text-decoration: none" href="https://github.com/darthyd?tab=repositories&language=docker">
-        <img src="https://img.shields.io/badge/docker-00add8?style=for-the-badge&logo=docker&logoColor=white">
     </a>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
