@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @darthyd a.k.a. Lucas José de Oliveira</h1>
+<h1 align="center">Hi 👋, I'm @darthyd a.k.a. Lucas Oliveira</h1>
 <h3 align="center">A passionate development student from Brazil</h3>
 
 - 🌱 I'm currently learning **JAVA**
