@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @darthyd a.k.a. Lucas Oliveira</h1>
 <h3 align="center">A passionate development student from Brazil</h3>
 
-- 🌱 I'm currently learning **JAVA**
+- 🌱 I'm currently learning **Rust**
 
-- 🤝 I’m looking for help with **anything that is possible**
+- 🤝 I’m looking to help with **anything that is possible**
 
 - 👨‍💻 Mostly of my projects are available at [github.com/darthyd](github.com/darthyd)
 
